@@ -10,21 +10,21 @@ Dirk Wulff (<a href="mailto:dirk.wulff@unibas.ch">contact</a>), Rui Mata (<a hre
 tba
 
 ## Background
-Data is everywhere and is being used to answer many questions concerning our wealth, health, and productivity. The aim of this seminar is to enable you to thoughtfully and actively use data science to help answer meaningful questions in a wide variety of domains. The course will consist of 1) introductory sessions on data science techniques using R, 2) the application of these techniques in a group project over the course of the semester, 3) discussion with experts (meet-the-expert events) to learn about opportunities and challenges of data analytics in psychology and business.
+Data is everywhere and is being used to answer many questions concerning our wealth, health, and productivity. The aim of this seminar is to enable you to thoughtfully and actively use data science to help answer meaningful questions in a wide variety of domains. The course will consist of 1) introductory sessions on data analytics, 2) the application of these techniques in a group project over the course of the semester, 3) discussion with experts in a meet-the-expert event to learn about opportunities and challenges of data analytics in psychology and business.
 
 ## Goals
 Learn the fundamentals of data science, develop confidence and skills in wrangling, analyzing, and communicating data to answer questions in an evidence-based manner.
 
 ## Grading
 The course is graded as PASS/FAIL. Students can receive a PASS if they fulfill the following requirements:
-1. Engagement in class exercises and discussions including meet-the expert events
-2. Complete homework assignments
-3. Present a blitz talk describing the group project (cf. session 3)
-4. Contribute to and complete group project
-5. Present group project (cf. session 6)
+1. Engagement in class exercises and discussions
+2. Completion of homework assignments
+3. Present several project updates in short presentations
+4. Contribute to and complete a group project
+5. Present group project in a blitz talk at the meet-the-expert event
 
 ## Agenda
-The course consists of 4 sessions on the following Fridays (ca. 9:00 to 16:00)
+The course consists of 4 full-day sessions on the following Fridays (ca. 9:00 to 16:00)
 
 <style>
 td {
@@ -48,43 +48,43 @@ td {
 </tr>
 <tr>
   <td style="text-align:center">1</td>
-  <td style="text-align:center">25.02.2021</td>
+  <td style="text-align:center">10.03.2023</td>
   <td style="text-align:center">9am - 12pm<br>1pm - 4pm</td>
-  <td>Introduction to data science; exploratory data analysis; project groups</td>
+  <td>Introduction to data science and the PPDAC cycle; Getting Started: GitHub, R Markdown; form groups</td>
 </tr>
 <tr>
   <td style="text-align:center">2</td>
-  <td style="text-align:center">18.03.2021</td>
+  <td style="text-align:center">17.03.2023</td>
   <td style="text-align:center">9am - 12pm<br>1pm - 4pm</td>
-  <td>Student blitz talks; RMarkdown & Github</td>
+  <td>Student project pitches; Data wramgling & visualization</td>
 </tr>
 <tr>
   <td style="text-align:center">3</td>
-  <td style="text-align:center">25.03.2021</td>
+  <td style="text-align:center">24.03.2023</td>
   <td style="text-align:center">9am - 12pm<br>1pm - 4pm</td>
-  <td>Statistical modeling and causal inference; student blitz talks</td>
+  <td>Student project pitches; causal inference and statistical modeling</td>
 </tr>
 <tr>
   <td style="text-align:center">4</td>
-  <td style="text-align:center">08.04.2021</td>
+  <td style="text-align:center">14.04.2023</td>
   <td style="text-align:center">9am - 12pm</td>
-  <td><a href="https://cdsbasel.github.io/dataanalytics_2022/menu/projects.html">Project meetings: analysis</a></td>
+  <td><a href="https://cdsbasel.github.io/dataanalytics_2023/menu/projects.html">Project meetings: analysis</a></td>
 </tr>
 <tr>
   <td style="text-align:center">5</td>
-  <td style="text-align:center">29.04.2021</td>
+  <td style="text-align:center">28.04.2023</td>
   <td style="text-align:center">9am - 12pm</td>
-  <td><a href="https://cdsbasel.github.io/dataanalytics_2022/menu/projects.html">Project meetings: analysis</a></td>
+  <td><a href="https://cdsbasel.github.io/dataanalytics_2023/menu/projects.html">Project meetings: analysis</a></td>
 </tr>
   <tr>
   <td style="text-align:center">5</td>
-  <td style="text-align:center">20.05.2021</td>
+  <td style="text-align:center">12.05.2023</td>
   <td style="text-align:center">9am - 12pm</td>
-  <td><a href="https://cdsbasel.github.io/dataanalytics_2022/menu/projects.html">Project meetings: presentation</a></td>
+  <td><a href="https://cdsbasel.github.io/dataanalytics_2023/menu/projects.html">Project meetings: presentation</a></td>
 </tr>
 <tr>
   <td style="text-align:center">6</td>
-  <td style="text-align:center">27.05.2021</td>
+  <td style="text-align:center">19.05.2023</td>
   <td style="text-align:center">9am - 12pm<br>1pm - 4pm</td>
   <td>Student presentations; meet-the-expert event</td>
 </tr>
