@@ -28,3 +28,7 @@ install.packages("tidyerse","ggthemes","lme4")
 </font>
 
 Important: to avoid problems during the installation of packages, please enter *n*, when you are asked to install a package from source.
+
+## 3 - GitHub
+
+Please get a <a href="https://github.com">Github</a><br> account and download the <a href="https://desktop.github.com">GitHub Desktop App</a><br> before the first session of the seminar. 

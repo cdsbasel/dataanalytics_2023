@@ -7,7 +7,7 @@ title: Syllabus
 Dirk Wulff (<a href="mailto:dirk.wulff@unibas.ch">contact</a>), Rui Mata (<a href="mailto:rui.mata@unibas.ch">contact</a>)
 
 ## Venue
-tba
+CDS Meeting Room (Missionsstrasse 64A, 1st floor, RM 01.001) and/or over Zoom
 
 ## Background
 Data is everywhere and is being used to answer many questions concerning our wealth, health, and productivity. The aim of this seminar is to enable you to thoughtfully and actively use data science to help answer meaningful questions in a wide variety of domains. The course will consist of 1) introductory sessions on data analytics, 2) the application of these techniques in a group project over the course of the semester, 3) discussion with experts in a meet-the-expert event to learn about opportunities and challenges of data analytics in psychology and business.
@@ -24,7 +24,7 @@ The course is graded as PASS/FAIL. Students can receive a PASS if they fulfill t
 5. Present group project in a blitz talk at the meet-the-expert event
 
 ## Agenda
-The course consists of 4 full-day sessions on the following Fridays (ca. 9:00 to 16:00)
+The course consists of 4 full-day sessions (Fridays, ca. 9:00 to 16:00), and individual group project update sessions of 1 hour (to be scheduled Friday mornings, 9:00 to 12:00). Specific dates are given below. 
 
 <style>
 td {
@@ -68,19 +68,19 @@ td {
   <td style="text-align:center">4</td>
   <td style="text-align:center">14.04.2023</td>
   <td style="text-align:center">9am - 12pm</td>
-  <td><a href="https://cdsbasel.github.io/dataanalytics_2023/menu/projects.html">Project meetings: analysis</a></td>
+  <td>Project meetings: analysis</td>
 </tr>
 <tr>
   <td style="text-align:center">5</td>
   <td style="text-align:center">28.04.2023</td>
   <td style="text-align:center">9am - 12pm</td>
-  <td><a href="https://cdsbasel.github.io/dataanalytics_2023/menu/projects.html">Project meetings: analysis</a></td>
+  <td>Project meetings: analysis</td>
 </tr>
   <tr>
   <td style="text-align:center">5</td>
   <td style="text-align:center">12.05.2023</td>
   <td style="text-align:center">9am - 12pm</td>
-  <td><a href="https://cdsbasel.github.io/dataanalytics_2023/menu/projects.html">Project meetings: presentation</a></td>
+  <td>Project meetings: presentation</td>
 </tr>
 <tr>
   <td style="text-align:center">6</td>
@@ -90,5 +90,7 @@ td {
 </tr>
 </table>
 
-## Course Readings
-Course <a href="readings"><b>readings</b></a> will be provided throughout the semester.
+## Getting Started
+
+Please check out the <a href="https://cdsbasel.github.io/dataanalytics_2023/menu/installation.html">Installation</a>page to get started. 
+
