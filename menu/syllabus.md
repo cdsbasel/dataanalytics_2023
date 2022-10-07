@@ -92,5 +92,5 @@ td {
 
 ## Getting Started
 
-Please check out the <a href="https://cdsbasel.github.io/dataanalytics_2023/menu/installation.html">Installation</a>page to get started. 
+Please check out the <a href="https://cdsbasel.github.io/dataanalytics_2023/menu/installation.html">Installation</a> page to get started. 
 
