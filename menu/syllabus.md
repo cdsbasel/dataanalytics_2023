@@ -24,7 +24,7 @@ The course is graded as PASS/FAIL. Students can receive a PASS if they fulfill t
 5. Present group project in a blitz talk at the meet-the-expert event
 
 ## Agenda
-The course consists of 4 full-day sessions (Fridays, ca. 9:00 to 16:00), and individual group project update sessions of 1 hour (to be scheduled Friday mornings, 9:00 to 12:00). Specific dates are given below. 
+The course consists of 4 full-day sessions (Fridays, ca. 9:00 to 16:00), and individual group project update sessions of 1 hour (to be scheduled Friday mornings, 9:00 to 12:00). Specific dates are given below.
 
 <style>
 td {
@@ -84,7 +84,7 @@ td {
 </tr>
 <tr>
   <td style="text-align:center">6</td>
-  <td style="text-align:center">19.05.2023</td>
+  <td style="text-align:center">2.06.2023</td>
   <td style="text-align:center">9am - 12pm<br>1pm - 4pm</td>
   <td>Student presentations; meet-the-expert event</td>
 </tr>
@@ -92,5 +92,4 @@ td {
 
 ## Getting Started
 
-Please check out the <a href="https://cdsbasel.github.io/dataanalytics_2023/menu/installation.html">Installation</a> page to get started. 
-
+Please check out the <a href="https://cdsbasel.github.io/dataanalytics_2023/menu/installation.html">Installation</a> page to get started.
