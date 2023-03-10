@@ -24,7 +24,7 @@ Use the following links to install the newest versions of base-R and RStudio.
 For this course we will rely on various R packages that need to be installed. To do this run the following code within your R Console in R Studio.
 
 <font style="font-family: 'Lucida Console', Monaco, monospace;">
-install.packages("tidyerse","ggthemes","distill","rmarkdown","lme4")
+install.packages("tidyverse","ggthemes","distill","rmarkdown","lme4")
 </font>
 
 Important: to avoid problems during the installation of packages, please enter *n*, when you are asked to install a package from source.
