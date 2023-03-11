@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Meet the expert event
+title: Meet-the-expert Event
 ---
 
 <!---
@@ -21,4 +21,4 @@ title: Please read before entering webinar
 
 Please sign up <a href="https://www.eventbrite.com/e/data-analytics-for-psychology-and-business-tickets-152818591521"><b>here</b></a>.
 
- <a href="https://www.eventbrite.com/e/data-analytics-for-psychology-and-business-tickets-152818591521"><img src="https://cdsbasel.github.io/dataanalytics_2021/assets/img/MeetTheExpert_DAfPB2021.png"></a>
+ <a href="https://www.eventbrite.com/e/data-analytics-for-psychology-and-business-tickets-152818591521"><img src="https://cdsbasel.github.io/dataanalytics_2021/assets/img/MeetTheExpert_DAfPB2021.png"></a>--->
