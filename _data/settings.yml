@@ -9,7 +9,7 @@ menu:
 - {name: 'Home',   url: 'index.html'}
 - {name: 'Syllabus',   path: 'menu', url: 'syllabus.html'}
 #- {name: 'Materials',   path: 'menu', url: 'materials.html'}
-#- {name: 'Projects',   path: 'menu', url: 'projects.html'}
+- {name: 'Project',   path: 'menu', url: 'project.html'}
 #- {name: 'Meet-the-expert',   path: 'menu', url: 'meet-the-expert.html'}
 - {name: 'Installation',   path: 'menu', url: 'installation.html'}
 
